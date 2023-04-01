@@ -1,0 +1,47 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,有线新闻
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1,有线财经
+https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1,有线直播
+https://cdn.hklive.tv/xxxx/110/index.m3u8
+#EXTINF:-1,NOW新闻
+https://cdn.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1,无线财经
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1,J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1,无线新闻
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1,香港电台31台
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1,香港电台32台
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1,香港电台33台
+https://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1,HOY TV
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1,HOY TV资讯
+https://cdn.hklive.tv/xxxx/78/index.m3u8
+#EXTINF:-1,ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1,ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,香港国际财经
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,广东体育
+http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1,咪咕体育
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1,澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
